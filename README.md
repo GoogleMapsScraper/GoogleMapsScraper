@@ -53,13 +53,12 @@ The following list outlines all the supported data fields：
 | Place Id         |     A Place ID is a text-based identifier that uniquely identifies a location                                                    |
 | Kgmid         |     Kgmid is the identifier used by the Google Knowledge Graph API                                                    |
 
-可以根据需求对每个模块单独引入，也可以通过引入`hutool-all`方式引入所有模块。
 
 -------------------------------------------------------------------------------
 
 ## 📝Doc 
 
-[📘Guides](https://plus.hutool.cn/docs/#/)
+[📘Guides](https://gmapsscraper.com/#guides)
 
 [📙FAQs](https://gmapsscraper.com/#faqs)
 
